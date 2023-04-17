@@ -1,8 +1,8 @@
 # Solving-N-Queen-by-using-Genetic-Algorithm
 
 
-##what is GA? 
-###The genetic algorithm (GA) is the most widely known type of evolutionary algorithm, and it is one of methods which tries to find optimum solution in a space with using an iterative algorithm.
+# what is GA? 
+### The genetic algorithm (GA) is the most widely known type of evolutionary algorithm, and it is one of methods which tries to find optimum solution in a space with using an iterative algorithm.
 
 ##How GA works?
 ###First a random population without any force must create after that due to performance of each chromosome, they can be candidate to choose as a parent to create child. Next, in term of aging new child will replace previous generation and this this algorithm repeated to find solution.
