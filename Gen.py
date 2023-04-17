@@ -1,6 +1,6 @@
 """
 
-@author: ThuAlfeqr_AlBkhati
+@author: Hamed Taghadosi
 """
 
 import numpy as np

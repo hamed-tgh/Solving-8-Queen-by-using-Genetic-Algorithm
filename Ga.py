@@ -1,6 +1,6 @@
 """
 
-@author: ThuAlfeqr_AlBkhati
+@author: Hamed Taghadosi
 """
 
 from operation import sort,mutation,Child_creation,Parent_selection,Change_generation,Fist_random_inittlize_population
